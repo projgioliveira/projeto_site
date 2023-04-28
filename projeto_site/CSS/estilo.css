@@ -1,0 +1,19 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: blue;
+}
+
+.container{
+    width: 80%;
+    background-color:brown;
+    margin:auto;
+
+}
+
+footer{
+    background-color: chartreuse;
+    width: 100%;
+}
